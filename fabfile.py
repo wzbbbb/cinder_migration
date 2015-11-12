@@ -1,11 +1,11 @@
 from fabric.api import *
-src_rc = "/home/zw451w/openrc_src"
-dst_rc = "/home/zw451w/openrc_dst"
+src_rc = "/home/xxxxx/openrc_src"
+dst_rc = "/home/xxxxx/openrc_dst"
 # the base directory where every
 src_vol_dir = "/mnt/cinder-volumes"
 dst_vol_dir = "/var/lib/cinder/mnt" #local
-user='zw451w'
-key="/home/zw451w/.ssh/id_rsa"
+user='xxxxx'
+key="/home/xxxxx/.ssh/id_rsa"
 remote_controller="135.21.85.117"
 
 maps_vol=[]
