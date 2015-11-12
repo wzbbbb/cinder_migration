@@ -9,3 +9,5 @@
 * Volume quotas
 * Volume snapshots
 
+# Configure 
+* Define everything in the script
