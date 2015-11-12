@@ -11,3 +11,6 @@
 
 # Configure 
 * Define everything in the script
+
+# Execution
+* fab migrate
